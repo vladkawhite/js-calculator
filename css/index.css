@@ -1,0 +1,79 @@
+body {
+
+background-color:#fff;
+
+margin: 0px auto;
+
+}
+
+.calbody{
+
+background: #097C9B;
+
+border: 1px solid #ff0;
+
+padding: 10px;
+
+margin-left: 450px;
+
+min-width: 27.4em;
+
+max-width: 27.4em;
+
+}
+
+h1{
+
+text-align: center;
+
+font-size: 40px;
+
+color: #003652;
+
+}
+
+#panel{
+
+text-align: right;
+
+width: 23em;
+
+height: 40px;
+
+font-size: 18px;
+
+}
+
+#panelu{
+
+color: grey;
+
+text-align: right;
+
+width: 27.6em;
+
+height: 35px;
+
+font-size: 15px;
+
+}
+
+button{
+
+background-color: #fff;
+
+width: 80px;
+
+height: 50px;
+
+font-size: 20px;
+
+
+}
+
+button:hover{
+
+background-color: #509CA9;
+
+}
+
